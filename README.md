@@ -5,7 +5,7 @@
 19 September 2015
 Please see the [RC branch](https://github.com/MarlinFirmware/Marlin/tree/RC) of this repository for access to this new pre-release version of the Marlin firmware.
 
-Documentation has moved to [marlinfirmware.org](http://www.marlinfirmware.org).
+Documentation has moved to [marlinfirmware.org](http://www.marlinfirmware.org). 
 
 ## Release Branch
 
